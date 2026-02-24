@@ -2,12 +2,12 @@
 
 ## 聯合運作平台（Common Operational Picture）
 
-### 部門卓越獎（內部服務）Test change
+### 部門卓越獎（內部服務）
 
 ### 3-minute Video Storyline（Final Consistent Version）
 
-**Duration：** 3 minutes  
-**Style：** Formal Cantonese Narration  
+**Duration：** 3 minutes\
+**Style：** Formal Cantonese Narration\
 **Format：** Voice-over narration + On-camera interview + System visuals
 
 ---
@@ -34,6 +34,10 @@
 
 **畫面：** 聯合運作平台主界面、圖層切換、數據整合動畫
 
+[https://raw.githubusercontent.com/Raymond-20210708/COP/main/Screencap%20video/Dashboard.mp4](https://raw.githubusercontent.com/Raymond-20210708/COP/main/Screencap%20video/Dashboard.mp4)\
+[https://raw.githubusercontent.com/Raymond-20210708/COP/main/Screencap%20video/Detail%20Map.mp4](https://raw.githubusercontent.com/Raymond-20210708/COP/main/Screencap%20video/Detail%20Map.mp4)\
+[https://raw.githubusercontent.com/Raymond-20210708/COP/main/Screencap%20video/Work%20department.mp4](https://raw.githubusercontent.com/Raymond-20210708/COP/main/Screencap%20video/Work%20department.mp4)
+
 **旁白：**
 為咗回應呢個挑戰，土木工程拓展署開發同管理「聯合運作平台」，即 Common Operational Picture。平台以「一屏總覽、市面態勢、跨部門協作」為核心理念，透過統一嘅雲端地圖介面，整合超過二十個部門嘅實時事故同支援數據，包括山泥傾瀉、水浸、交通同天氣等資訊，同時管理五十多個地理圖層。
 
@@ -54,6 +58,9 @@
 
 **畫面：** AI示意、交通數據整合、系統翻新畫面
 
+[https://raw.githubusercontent.com/Raymond-20210708/COP/main/Screencap%20video/Traffic%20and%20Reference%20Map.mp4](https://raw.githubusercontent.com/Raymond-20210708/COP/main/Screencap%20video/Traffic%20and%20Reference%20Map.mp4)\
+[https://raw.githubusercontent.com/Raymond-20210708/COP/main/Screencap%20video/AI%20chatbot.mp4](https://raw.githubusercontent.com/Raymond-20210708/COP/main/Screencap%20video/AI%20chatbot.mp4)
+
 **旁白：**
 近年系統完成全面翻新，引入開源地圖服務同更開放嘅技術架構，提升穩定性同成本效益。平台亦整合大數據交通資訊同人工智能輔助分析功能，支援以數據為基礎嘅研判。
 
@@ -62,11 +69,14 @@
 ## 【1:40 – 1:58】世紀暴雨考驗
 
 **畫面：**
-2023年暴雨期間系統畫面  
-https://raw.githubusercontent.com/Raymond-20210708/COP/main/images/COP_visit_video_wall_briefing.jpg  
-https://raw.githubusercontent.com/Raymond-20210708/COP/main/images/COP_visit_media_briefing_with_caption.jpg  
-https://raw.githubusercontent.com/Raymond-20210708/COP/main/images/COP_visit_ops_floor_group_discussion.jpg  
-https://raw.githubusercontent.com/Raymond-20210708/COP/main/images/COP_visit_video_wall_discussion_pair.jpg
+2023年暴雨期間系統畫面\
+[https://raw.githubusercontent.com/Raymond-20210708/COP/main/images/COP\_visit\_video\_wall\_briefing.jpg](https://raw.githubusercontent.com/Raymond-20210708/COP/main/images/COP_visit_video_wall_briefing.jpg)\
+[https://raw.githubusercontent.com/Raymond-20210708/COP/main/images/COP\_visit\_media\_briefing\_with\_caption.jpg](https://raw.githubusercontent.com/Raymond-20210708/COP/main/images/COP_visit_media_briefing_with_caption.jpg)\
+[https://raw.githubusercontent.com/Raymond-20210708/COP/main/images/COP\_visit\_ops\_floor\_group\_discussion.jpg](https://raw.githubusercontent.com/Raymond-20210708/COP/main/images/COP_visit_ops_floor_group_discussion.jpg)\
+[https://raw.githubusercontent.com/Raymond-20210708/COP/main/images/COP\_visit\_video\_wall\_discussion\_pair.jpg](https://raw.githubusercontent.com/Raymond-20210708/COP/main/images/COP_visit_video_wall_discussion_pair.jpg)
+
+[https://raw.githubusercontent.com/Raymond-20210708/COP/main/Screencap%20video/Summary%20of%20Progress%20Update.mp4](https://raw.githubusercontent.com/Raymond-20210708/COP/main/Screencap%20video/Summary%20of%20Progress%20Update.mp4)\
+[https://raw.githubusercontent.com/Raymond-20210708/COP/main/Screencap%20video/FSD%20and%20police.mp4](https://raw.githubusercontent.com/Raymond-20210708/COP/main/Screencap%20video/FSD%20and%20police.mp4)
 
 **旁白：**
 二零二三年世紀暴雨期間，聯合運作平台喺高負載情況下依然保持穩定運作。各部門可以即時更新事故處理進度，管理層亦可以迅速掌握全港整體恢復情況。
@@ -83,6 +93,8 @@ https://raw.githubusercontent.com/Raymond-20210708/COP/main/images/COP_visit_vid
 ## 【2:12 – 2:40】成效
 
 **畫面：** 數字動畫、操作片段
+
+[https://raw.githubusercontent.com/Raymond-20210708/COP/main/Screencap%20video/Emergency%20progress%20update.mp4](https://raw.githubusercontent.com/Raymond-20210708/COP/main/Screencap%20video/Emergency%20progress%20update.mp4)
 
 **旁白：**
 自投入服務以來，聯合運作平台累計支援超過一萬宗事故個案，整合來自十二個數據來源嘅實時資料。喺二零二五年颱風「鷹加沙」期間，平台曾於單日處理接近二千宗緊急事故，充分反映系統喺極端情況下嘅承載能力。喺惡劣天氣期間，系統可同時支援超過一百名使用者登入，維持二十四小時運作。
@@ -104,8 +116,8 @@ https://raw.githubusercontent.com/Raymond-20210708/COP/main/images/COP_visit_vid
 
 ## 結語字幕
 
-一個平台  
-一個政府  
+一個平台\
+一個政府\
 一齊守護香港
 
 ---
